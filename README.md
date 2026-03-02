@@ -39,6 +39,14 @@ Because this app is not signed by an Apple Developer account, macOS will automat
 2. **Run** the installer and follow the prompts.
 3. Launch FrenPet from your desktop shortcut or Start menu.
 
+
+### **Linux (x64)**
+I have included a build for Linux x64. Please note:
+- I don't know how to package this into a `.deb` (Debian/Ubuntu) or `.rpm` (Fedora) installer.
+- To run it, download the Linux zip, extract it, right-click the `FrenPet` executable, and select **"Allow executing file as program"** in your file manager permissions.
+- I have included the source/build scripts in this repo if you want to compile or package it into a different format yourself.
+
+
 ---
 
 *Enjoy your FrenPet on the big screen!*
