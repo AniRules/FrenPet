@@ -12,7 +12,7 @@ A standalone desktop version of [FrenPet](https://frenpet.xyz) built for macOS a
 ## ⚠️ Disclaimer
 **I do not own FrenPet.** This is an unofficial, community-made wrapper. 
 - All rights, assets, and branding belong to the [FrenPet team](https://frenpet.xyz). 
-- **DMCA** If you are the owner of FrenPet and wish for this repository to be removed, please contact me or open an issue, and I will take it down immediately.
+- **DMCA Takedown:** If you are the owner of FrenPet and wish for this repository to be removed, please contact me or open an issue, and I will take it down immediately.
 
 ---
 
