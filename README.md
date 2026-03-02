@@ -3,7 +3,7 @@
 A standalone desktop version of [FrenPet](https://frenpet.xyz) built for macOS and Windows. 
 
 ## 📜 Credits & Licensing
-- **Engine:** Powered by [Electron](https://www.electronjs.org), enabling web technologies to run as desktop applications.
+- **Engine:** Powered by [Electron](https://www.electronjs.org) via [Nativefier](https://github.com).
 - **Windows Installer:** Created using [Inno Setup](https://jrsoftware.org).
 - **License:** Distributed under the [GNU GPL v3](https://www.gnu.org).
 
