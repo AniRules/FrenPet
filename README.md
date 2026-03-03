@@ -50,5 +50,3 @@ I have included a build for Linux x64. Please note:
 
 
 ---
-
-*Enjoy your FrenPet on the big screen!*
