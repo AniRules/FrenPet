@@ -1,8 +1,5 @@
 # FrenPet Desktop (Unofficial)
 
-[![Latest Release](https://img.shields.io/github/v/release/AniRules/FrenPet)](https://github.com/AniRules/FrenPet/releases)
-[![Downloads](https://img.shields.io/github/downloads/AniRules/FrenPet/total)](https://github.com/AniRules/FrenPet/releases)
-
 A standalone desktop version of [FrenPet](https://frenpet.xyz) built for macOS and Windows. 
 
 ## 📜 Credits & Licensing
